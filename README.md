@@ -30,14 +30,3 @@ Copy
 Edit
 live-server .
 
-Deploy on GitHub Pages
-
-Push the repository to GitHub.
-Go to Settings → Pages.
-Select main branch and set the root directory.
-Your site will be live at: https://tsakane28.github.io/waterripplee
-🎨 Screenshots
-
-📜 License
-This project is open-source and available under the MIT License. See the LICENSE file for more details.
-
