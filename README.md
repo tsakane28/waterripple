@@ -19,8 +19,8 @@ waterripple/ │── index.html
 
 1. **Clone this repository**
    ```sh
-   git clone https://github.com/your-username/future-dev.git
-   cd future-dev
+   git clone https://github.com/tsakane28/waterripplee.git
+   cd waterripple
 Run it locally
 
 Open index.html in your browser.
